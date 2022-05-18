@@ -1,0 +1,11 @@
+.movieImage{
+  align-items: center;
+    width: 300px;
+    height: 300px;
+    
+  }
+.title{
+  text-align: inherit;
+  color: black;
+
+  }
